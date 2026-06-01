@@ -12,8 +12,8 @@ Como analista en AdventureWorks, el director financiero necesitaba saber en qué
 
 ## 🛠️ Herramientas utilizadas
 - SQL (replicable en [SQLiteOnline](https://sqliteonline.com))
-- Google Sheets (Dashboard y visualizaciones)
-- IBM Cognos
+- Google Sheets (Resumen ejecutivo CFI)
+- IBM Cognos (Dashboard y visualizaciones)
 
 ## 📂 Dataset
 Subconjunto del dataset público **AdventureWorks** con las tablas:
@@ -49,6 +49,11 @@ Subconjunto del dataset público **AdventureWorks** con las tablas:
 4. **Incentivar venta por volumen** en Accesorios por su alto margen porcentual e **impulsar comercialmente** Mountain-200 Silver y Bicicletas por su beneficio bruto absoluto más alto del catálogo.
 
 ## 📁 Archivos del repositorio
-- `queries.sql` — Todas las consultas del análisis
-- `informe_ejecutivo.md` — Resumen ejecutivo C→F→I
-- `dashboard/` — Capturas del dashboard en Google Sheets
+- `queries.sql` — Consultas del análisis del bootcamp
+- `queries_analisis_extendido.sql` — Consultas adicionales desarrolladas por iniciativa propia
+- `Proyecto 3_...SS Google Sheets.png` — Resumen ejecutivo CFI en Google Sheets
+- `01_dashboard_general.png` — Vista ejecutiva con KPIs principales (IBM Cognos)
+- `02_ingresos_vs_costos_por_pais.png` — Comparativo por país (IBM Cognos)
+- `03_roi_marketing_por_continente.png` — ROI por continente (IBM Cognos)
+- `04_rentabilidad_unitaria_producto.png` — Rentabilidad por producto (IBM Cognos)
+- `05_margen_ganancia_por_producto.png` — Margen por producto (IBM Cognos)
