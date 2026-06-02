@@ -38,7 +38,7 @@ Subconjunto del dataset público **AdventureWorks** con las tablas:
 ## 💡 Hallazgos principales
 - **Oportunidad por Continente:** Norteamérica es la mejor opción   de inversión general (43.61% margen, 47.34% ROI); si la inversión   va estrictamente a pauta publicitaria, Oceanía lidera con 49.16% ROI.
 - **País líder:** United States lidera tanto en ingresos totales como en ROI de campañas de marketing.
-- **Rentabilidad real:** Solo Australia y United States generan ingresos superiores al costo de sus campañas — los únicos mercados con ROI positivo real.
+- **Rentabilidad real:** Solo Australia y United States generan ingresos superiores al costo de sus campañas — los únicos mercados con ROMI positivo real.
 - **Gasto ineficiente:** Francia (17.96% ROI) y Canadá (17.43% ROI) son los territorios menos eficientes. Canadá gastó $1.82M en marketing para ingresar solo $710K; Francia gastó $2.2M para ingresar $924K.
 - **Rentabilidad por categoría:** Accesorios lidera en margen porcentual (62.75%), impulsado por productos como Sport-100 Helmet (64.25% de margen, $21.62 de ganancia unitaria).
  
